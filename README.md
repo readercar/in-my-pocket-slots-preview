@@ -1,5 +1,5 @@
 # In My Pocket Slots Preview
 
-Playable preview: https://readercar.github.io/in-my-pocket-slots-preview/
+https://readercar.github.io/in-my-pocket-slots-preview/
 
 Build artifacts only. Ads and purchases are test flows.
