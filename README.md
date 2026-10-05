@@ -1,5 +1,5 @@
 # In My Pocket Slots Preview
 
-https://readercar.github.io/in-my-pocket-slots-preview/v0.56/
+https://readercar.github.io/in-my-pocket-slots-preview/
 
-Build artifacts only.
+Build artifacts only. Ads and purchases are test flows.
