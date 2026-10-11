@@ -2,6 +2,7 @@
 
 Development web previews. Build artifacts only.
 
+- [v0.65 — continuous spin scenes and tumble survivors](https://readercar.github.io/in-my-pocket-slots-preview/v0.65/)
 - [v0.64 — distinct tumble impacts and login preparation](https://readercar.github.io/in-my-pocket-slots-preview/v0.64/)
 - [v0.63](https://readercar.github.io/in-my-pocket-slots-preview/v0.63/)
 
