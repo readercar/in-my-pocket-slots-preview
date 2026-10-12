@@ -1,11 +1,5 @@
 # In My Pocket Slots Preview
 
-Development web previews. Build artifacts only.
+[Latest playable web 0.66](https://readercar.github.io/in-my-pocket-slots-preview/v0.66/)
 
-- [v0.65 — continuous spin scenes and tumble survivors](https://readercar.github.io/in-my-pocket-slots-preview/v0.65/)
-- [v0.64 — distinct tumble impacts and login preparation](https://readercar.github.io/in-my-pocket-slots-preview/v0.64/)
-- [v0.63](https://readercar.github.io/in-my-pocket-slots-preview/v0.63/)
-
-- [v0.62 — continuous reel landing and earlier first tumble](https://readercar.github.io/in-my-pocket-slots-preview/v0.62/)
-- [v0.61](https://readercar.github.io/in-my-pocket-slots-preview/v0.61/)
-- [Original preview](https://readercar.github.io/in-my-pocket-slots-preview/)
+Compiled web artifacts only. Previous version links are retained.
