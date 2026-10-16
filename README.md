@@ -1,5 +1,5 @@
-# In My Pocket Slots preview
+# In My Pocket Slots Preview
 
-Current compiled Cocos web preview: [v0.67](https://readercar.github.io/in-my-pocket-slots-preview/v0.67/).
+https://readercar.github.io/in-my-pocket-slots-preview/
 
-Ordinary reel speed and positional stop rebound; faster tumble gravity, doubled first-drop cadence, and preserved falling symbols. Previous version links remain available.
+Build artifacts only. Ads and purchases are test flows.
